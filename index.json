@@ -1,0 +1,137 @@
+[
+  {
+    "id": "novelscraper.freewebnovel",
+    "name": "Free Web Novel",
+    "site": "https://freewebnovel.com/",
+    "lang": "English",
+    "version": "2.2.5",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/freewebnovel.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/freewebnovel.png"
+  },
+  {
+    "id": "novelscraper.fucknovelpia",
+    "name": "FuckNovelpia",
+    "site": "https://fucknovelpia.com/",
+    "lang": "English",
+    "version": "1.1.1",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/fucknovelpia.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/fucknovelpia.png"
+  },
+  {
+    "id": "novelscraper.novelarchive",
+    "name": "Novel Archive",
+    "site": "https://novelarchive.cc/",
+    "lang": "English",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/novelarchive.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/novelarchive.png"
+  },
+  {
+    "id": "novelscraper.novelbin",
+    "name": "Novel Bin (novel-bin.com)",
+    "site": "https://novel-bin.com/",
+    "lang": "English",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/novelbin.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/novelbin.png"
+  },
+  {
+    "id": "novelscraper.novelbuddy",
+    "name": "NovelBuddy",
+    "site": "https://novelbuddy.me/",
+    "lang": "English",
+    "version": "2.1.3",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/novelbuddy.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/novelbuddy.png"
+  },
+  {
+    "id": "novelscraper.novelcool",
+    "name": "NovelCool",
+    "site": "https://www.novelcool.com",
+    "lang": "English",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/novelcool.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/novelcool.png"
+  },
+  {
+    "id": "novelscraper.novelfire",
+    "name": "Novel Fire",
+    "site": "https://novelfire.net/",
+    "lang": "English",
+    "version": "1.4.4",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/novelfire.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/novelfire.png"
+  },
+  {
+    "id": "novelscraper.novelhall",
+    "name": "Novel Hall",
+    "site": "https://novelhall.com/",
+    "lang": "English",
+    "version": "1.0.3",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/novelhall.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/novelhall.png"
+  },
+  {
+    "id": "novelscraper.novelphoenix",
+    "name": "Novel Phoenix",
+    "site": "https://novelphoenix.com/",
+    "lang": "English",
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/novelphoenix.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/novelphoenix.png"
+  },
+  {
+    "id": "novelscraper.openquill",
+    "name": "OpenQuill",
+    "site": "https://openquill.net/",
+    "lang": "English",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/openquill.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/openquill.png"
+  },
+  {
+    "id": "novelscraper.ranobesnet",
+    "name": "Ranobes (ranobes.net)",
+    "site": "https://ranobes.net",
+    "lang": "English",
+    "version": "2.0.2",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/ranobesnet.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/ranobesnet.png"
+  },
+  {
+    "id": "novelscraper.royalroad",
+    "name": "Royal Road",
+    "site": "https://www.royalroad.com/",
+    "lang": "English",
+    "version": "2.3.1",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/royalroad.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/royalroad.png"
+  },
+  {
+    "id": "novelscraper.scribblehub",
+    "name": "Scribble Hub",
+    "site": "https://www.scribblehub.com/",
+    "lang": "English",
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/scribblehub.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/scribblehub.png"
+  },
+  {
+    "id": "novelscraper.wuxiabox",
+    "name": "Wuxiabox",
+    "site": "https://www.wuxiabox.com",
+    "lang": "English",
+    "version": "1.0.3",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/wuxiabox.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/wuxiabox.png"
+  },
+  {
+    "id": "novelscraper.wuxiaclick",
+    "name": "Wuxia Click",
+    "site": "https://wuxia.click/",
+    "lang": "English",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/wuxiaclick.js",
+    "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/wuxiaclick.png"
+  }
+]
