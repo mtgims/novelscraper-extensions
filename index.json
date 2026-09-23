@@ -67,7 +67,7 @@
     "name": "Novel Hall",
     "site": "https://novelhall.com/",
     "lang": "English",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/novelhall.js",
     "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/novelhall.png"
   },
