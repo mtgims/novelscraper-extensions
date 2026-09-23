@@ -112,7 +112,7 @@
     "name": "Scribble Hub",
     "site": "https://www.scribblehub.com/",
     "lang": "English",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "url": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/plugins/english/scribblehub.js",
     "iconUrl": "https://raw.githubusercontent.com/mtgims/novelscraper-extensions/master/icons/scribblehub.png"
   },
