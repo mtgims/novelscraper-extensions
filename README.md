@@ -1,6 +1,6 @@
 # NovelScraper extensions
 
-The sources for the NovelScraper app (Android and Linux). Each source is an
+The sources for the NovelScraper app. Each source is an
 extension: a small JavaScript plugin that knows how to list, search and read one
 site. The app installs extensions from repositories like this one.
 
