@@ -128,3 +128,13 @@ To try a plugin against its site before publishing, the app repository has a
 live test: from `app/`,
 `./gradlew :composeApp:desktopTest --tests '*LivePluginTest*' -PliveRepo=<this checkout> -PlivePlugins=<id>`
 (popular list, one novel, its first chapter; a few requests, spaced out).
+
+## Licence
+
+MIT. The full text is in [LICENSE](LICENSE).
+
+Several of these plugins are derived from the
+[LNReader plugins](https://github.com/LNReader/lnreader-plugins), which are MIT
+licensed, and the table above records which ones. MIT asks that the original
+copyright notice travel with the work, so it is kept alongside this repository's
+own in `LICENSE`. Anyone reusing these plugins inherits the same obligation.
